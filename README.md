@@ -65,11 +65,11 @@ Sites: 127.0.0.1:8000
 
 NB: For Twitter, the client ID is the API Key. The rest use the client IDs provided
 ```
-7. Logout of Django Admin & Run the Project
+10. Logout of Django Admin & Run the Project
 ```
 py manage.py runserver
 ```
-8. Head over to URL
+11. Head over to URL
 ```
 http://127.0.0.1:8000/login
 ```
